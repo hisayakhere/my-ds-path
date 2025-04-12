@@ -4,7 +4,7 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
 
 > Click the level you're in 👇
 
-- [Foundation](01Foundation-Level/foundation.md)
-- [Diploma](02Diploma-Level/diploma.md)
-- [BSc Level](03BSc-Level/bsc.md)
-- [BS Level](04BS-Level/bs.md)
+- [Foundation](Levels/01Foundation-Level/foundation.md)
+- [Diploma](Levels/02Diploma-Level/diploma.md)
+- [BSc Level](Levels/03BSc-Level/bsc.md)
+- [BS Level](Levels/04BS-Level/bs.md)
