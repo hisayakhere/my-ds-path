@@ -4,8 +4,6 @@ I am a student of IIT Madras BS Data Science course, and in this repository I sh
 
 ## Notes
 
-- [Foundation](Foundation/)
-    ```bash
-    Guys chill I do-not have any English1 notes
-    ```
+- [Foundation](foundation.md)
+
 
