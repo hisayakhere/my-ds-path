@@ -2,7 +2,7 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
 
 #### Level
 
-> Click the level you're in 👇
+> Choose the level you're in 👇
 
 - [Foundation](Levels/01Foundation-Level/foundation.md)
 - [Diploma](Levels/02Diploma-Level/diploma.md)
